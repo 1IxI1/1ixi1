@@ -17,5 +17,5 @@ In the bus: \
  \- You just hold on to the handrail with your foot... 
 
 ### `1ixi1@profile:~$ connect`
-Telegram: @topIXItop \
+Telegram: [@topIXItop](https://topIXItop.t.me) \
 Email: victorsyschenko@gmail.com
